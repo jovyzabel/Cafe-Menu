@@ -1,5 +1,7 @@
 body{
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    font-family: sans-serif;
+    padding: 20px;
 }
 div{
     width: 80%;
@@ -11,6 +13,7 @@ div{
 }
 .est{
    font-style: italic;
+   
 }
 h1, h2, .est{
     text-align: center;
